@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sampled from image.png: the squircle's top and bottom gradient stops. -->
+    <color name="ic_launcher_gradient_start">#E9E9E9</color>
+    <color name="ic_launcher_gradient_end">#BCBFC5</color>
+    <color name="ic_launcher_background">#E3E4E6</color>
+</resources>

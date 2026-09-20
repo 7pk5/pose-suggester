@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pose Suggester</string>
+    <string name="capture">Capture</string>
+    <string name="suggest_pose">Suggest pose</string>
+    <string name="status_ready">Point the camera at your scene</string>
+    <string name="status_thinking">Thinking about a pose…</string>
+    <string name="permission_denied">Camera permission is required to use this app</string>
+    <string name="camera_error">Camera could not be started</string>
+    <string name="photo_saved">Photo saved</string>
+    <string name="scene_summary">%1$d objects · %2$d open regions</string>
+</resources>
